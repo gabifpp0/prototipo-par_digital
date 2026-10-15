@@ -1,4 +1,4 @@
-# PAR Digital — Prototipação de Interfaces
+# PAR Digital - Prototipação de Interfaces
 
 ## 📌 Sobre o projeto
 
